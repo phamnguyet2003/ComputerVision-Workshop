@@ -100,7 +100,7 @@ Color Adjust:
 
 - Test Image:
 
-![Alt text](Lab7//3people.jpg)
+![Alt text](https://github.com/phamnguyet2003/ComputerVision-Workshop/blob/main/Lab%207/3people.jpg)
 
 - Face Recognition:
 
