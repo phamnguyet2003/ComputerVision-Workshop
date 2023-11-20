@@ -9,8 +9,14 @@ ID: HE176392
 ClassID: AI1706
 University: FPT University
 ```
-## About this repository:
-
+## About this repository (Overview):
+```
+Lab 1: Geometric primitives and transformations
+Lab 2: Image processing
+Lab 5: Feature-Based Alignment
+Lab 7: Object detection- Face detection
+```
+## About this repository (In-depth):
 ### [Lab 1](https://github.com/phamnguyet2003/ComputerVision_Workshop/tree/main/Lab1):
 #### Geometric primitives and transformations:
 - Function 1:  Create a white background 
